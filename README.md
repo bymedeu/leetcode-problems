@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bymedeu/leetcode-problems/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bymedeu/leetcode-problems/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/bymedeu/leetcode-problems/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Linked List
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bymedeu/leetcode-problems/tree/master/0001-two-sum) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bymedeu/leetcode-problems/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3770-lexicographically-smallest-generated-string](https://github.com/bymedeu/leetcode-problems/tree/master/3770-lexicographically-smallest-generated-string) |
+## Sorting
+|  |
+| ------- |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bymedeu/leetcode-problems/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 <!---LeetCode Topics End-->
