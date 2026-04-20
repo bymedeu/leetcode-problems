@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bymedeu/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/bymedeu/leetcode-problems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bymedeu/leetcode-problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/bymedeu/leetcode-problems/tree/master/3770-lexicographically-smallest-generated-string) |
 ## String Matching
 |  |
