@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bymedeu/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/bymedeu/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/bymedeu/leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/bymedeu/leetcode-problems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bymedeu/leetcode-problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
