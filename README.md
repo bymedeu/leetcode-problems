@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bymedeu/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/bymedeu/leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/bymedeu/leetcode-problems/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/bymedeu/leetcode-problems/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bymedeu/leetcode-problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bymedeu/leetcode-problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+## Depth-First Search
+|  |
+| ------- |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/bymedeu/leetcode-problems/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+## Union-Find
+|  |
+| ------- |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/bymedeu/leetcode-problems/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
