@@ -13,7 +13,7 @@ class Solution:
 
         for q in queries:
             for d in dictionary:
-                if len(q) == len(d) and dist(q, d):
+                if dist(q, d):
                     #print(f"{q} approved by {d}")
                     res.append(q)
                     break
