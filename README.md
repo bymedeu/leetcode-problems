@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bymedeu/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2550-words-within-two-edits-of-dictionary](https://github.com/bymedeu/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bymedeu/leetcode-problems/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bymedeu/leetcode-problems/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/bymedeu/leetcode-problems/tree/master/3770-lexicographically-smallest-generated-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/bymedeu/leetcode-problems/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bymedeu/leetcode-problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2550-words-within-two-edits-of-dictionary](https://github.com/bymedeu/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/bymedeu/leetcode-problems/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [2550-words-within-two-edits-of-dictionary](https://github.com/bymedeu/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
