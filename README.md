@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bymedeu/leetcode-problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/bymedeu/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2721-sum-of-distances](https://github.com/bymedeu/leetcode-problems/tree/master/2721-sum-of-distances) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bymedeu/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bymedeu/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2721-sum-of-distances](https://github.com/bymedeu/leetcode-problems/tree/master/2721-sum-of-distances) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bymedeu/leetcode-problems/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/bymedeu/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2721-sum-of-distances](https://github.com/bymedeu/leetcode-problems/tree/master/2721-sum-of-distances) |
 <!---LeetCode Topics End-->
