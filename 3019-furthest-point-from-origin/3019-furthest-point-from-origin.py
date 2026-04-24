@@ -1,14 +1,13 @@
 class Solution:
     def furthestDistanceFromOrigin(self, moves: str) -> int:
-        l = 0
-        r = 0
+        d = 0
         a = 0
         for c in moves:
             if c == '_':
                 a += 1
             elif c == 'L':
-                l += 1
+                d -= 1
             else:
-                r += 1
+                d += 1
+        return abs(d) + a
 
-        return max(abs(r - l - a), abs(r - l + a)) 
