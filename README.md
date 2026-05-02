@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bymedeu/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bymedeu/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/bymedeu/leetcode-problems/tree/master/0069-sqrtx) |
+| [0804-rotated-digits](https://github.com/bymedeu/leetcode-problems/tree/master/0804-rotated-digits) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/bymedeu/leetcode-problems/tree/master/3019-furthest-point-from-origin) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0804-rotated-digits](https://github.com/bymedeu/leetcode-problems/tree/master/0804-rotated-digits) |
 <!---LeetCode Topics End-->
