@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bymedeu/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/bymedeu/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bymedeu/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/bymedeu/leetcode-problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/bymedeu/leetcode-problems/tree/master/0069-sqrtx) |
 | [0804-rotated-digits](https://github.com/bymedeu/leetcode-problems/tree/master/0804-rotated-digits) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bymedeu/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/bymedeu/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/bymedeu/leetcode-problems/tree/master/0048-rotate-image) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/bymedeu/leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/bymedeu/leetcode-problems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/bymedeu/leetcode-problems/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0804-rotated-digits](https://github.com/bymedeu/leetcode-problems/tree/master/0804-rotated-digits) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bymedeu/leetcode-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
