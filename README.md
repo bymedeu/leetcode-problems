@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/bymedeu/leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/bymedeu/leetcode-problems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/bymedeu/leetcode-problems/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1972-rotating-the-box](https://github.com/bymedeu/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bymedeu/leetcode-problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/bymedeu/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1972-rotating-the-box](https://github.com/bymedeu/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bymedeu/leetcode-problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Depth-First Search
 |  |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bymedeu/leetcode-problems/tree/master/0048-rotate-image) |
+| [1972-rotating-the-box](https://github.com/bymedeu/leetcode-problems/tree/master/1972-rotating-the-box) |
 <!---LeetCode Topics End-->
