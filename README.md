@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/bymedeu/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2721-sum-of-distances](https://github.com/bymedeu/leetcode-problems/tree/master/2721-sum-of-distances) |
+| [3981-jump-game-ix](https://github.com/bymedeu/leetcode-problems/tree/master/3981-jump-game-ix) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0804-rotated-digits](https://github.com/bymedeu/leetcode-problems/tree/master/0804-rotated-digits) |
+| [3981-jump-game-ix](https://github.com/bymedeu/leetcode-problems/tree/master/3981-jump-game-ix) |
 ## Matrix
 |  |
 | ------- |
