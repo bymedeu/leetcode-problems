@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/bymedeu/leetcode-problems/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1972-rotating-the-box](https://github.com/bymedeu/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bymedeu/leetcode-problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2043-cyclically-rotating-a-grid](https://github.com/bymedeu/leetcode-problems/tree/master/2043-cyclically-rotating-a-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/bymedeu/leetcode-problems/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2721-sum-of-distances](https://github.com/bymedeu/leetcode-problems/tree/master/2721-sum-of-distances) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/bymedeu/leetcode-problems/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [2043-cyclically-rotating-a-grid](https://github.com/bymedeu/leetcode-problems/tree/master/2043-cyclically-rotating-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bymedeu/leetcode-problems/tree/master/0048-rotate-image) |
 | [1972-rotating-the-box](https://github.com/bymedeu/leetcode-problems/tree/master/1972-rotating-the-box) |
+| [2043-cyclically-rotating-a-grid](https://github.com/bymedeu/leetcode-problems/tree/master/2043-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
