@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bymedeu/leetcode-problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/bymedeu/leetcode-problems/tree/master/0069-sqrtx) |
 | [0804-rotated-digits](https://github.com/bymedeu/leetcode-problems/tree/master/0804-rotated-digits) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/bymedeu/leetcode-problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
@@ -123,10 +124,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0804-rotated-digits](https://github.com/bymedeu/leetcode-problems/tree/master/0804-rotated-digits) |
 | [3981-jump-game-ix](https://github.com/bymedeu/leetcode-problems/tree/master/3981-jump-game-ix) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/bymedeu/leetcode-problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bymedeu/leetcode-problems/tree/master/0048-rotate-image) |
 | [1972-rotating-the-box](https://github.com/bymedeu/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2043-cyclically-rotating-a-grid](https://github.com/bymedeu/leetcode-problems/tree/master/2043-cyclically-rotating-a-grid) |
+## Enumeration
+|  |
+| ------- |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/bymedeu/leetcode-problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
