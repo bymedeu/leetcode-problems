@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bymedeu/leetcode-problems/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/bymedeu/leetcode-problems/tree/master/3019-furthest-point-from-origin) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/bymedeu/leetcode-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bymedeu/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/bymedeu/leetcode-problems/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Linked List
 |  |
@@ -58,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bymedeu/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2721-sum-of-distances](https://github.com/bymedeu/leetcode-problems/tree/master/2721-sum-of-distances) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bymedeu/leetcode-problems/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bymedeu/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/bymedeu/leetcode-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bymedeu/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/bymedeu/leetcode-problems/tree/master/3770-lexicographically-smallest-generated-string) |
 ## String Matching
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bymedeu/leetcode-problems/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bymedeu/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/bymedeu/leetcode-problems/tree/master/3019-furthest-point-from-origin) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bymedeu/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
