@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bymedeu/leetcode-problems/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bymedeu/leetcode-problems/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/bymedeu/leetcode-problems/tree/master/3019-furthest-point-from-origin) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/bymedeu/leetcode-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/bymedeu/leetcode-problems/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Linked List
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bymedeu/leetcode-problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/bymedeu/leetcode-problems/tree/master/0069-sqrtx) |
 | [0804-rotated-digits](https://github.com/bymedeu/leetcode-problems/tree/master/0804-rotated-digits) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/bymedeu/leetcode-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/bymedeu/leetcode-problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bymedeu/leetcode-problems/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/bymedeu/leetcode-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/bymedeu/leetcode-problems/tree/master/3770-lexicographically-smallest-generated-string) |
 ## String Matching
 |  |
