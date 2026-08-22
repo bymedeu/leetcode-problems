@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/bymedeu/leetcode-problems/tree/master/0069-sqrtx) |
 | [0804-rotated-digits](https://github.com/bymedeu/leetcode-problems/tree/master/0804-rotated-digits) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/bymedeu/leetcode-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/bymedeu/leetcode-problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/bymedeu/leetcode-problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/bymedeu/leetcode-problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
